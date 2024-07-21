@@ -1,0 +1,16 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "01-starting-project\\src\\app\\header\\",
+      "color": "foldercolorizer.Azure"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\user-input\\",
+      "color": "foldercolorizer.Magenta"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\",
+      "color": "foldercolorizer.White"
+    }
+  ]
+}
