@@ -11,6 +11,10 @@
     {
       "folderPath": "01-starting-project\\src\\app\\",
       "color": "foldercolorizer.White"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\investment-results\\",
+      "color": "foldercolorizer.LimeGreen"
     }
   ]
 }
